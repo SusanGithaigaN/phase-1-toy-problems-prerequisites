@@ -1,7 +1,7 @@
 // Call promt-sync in order to get the actual prompting function.
 const prompt = require("prompt-sync")();
 // Define variable salary.
-// Prompt users to input their basic salary, which is stored in the salary variable.
+// Prompt users to input their salary, which is stored in the grossPay variable.
 const grossPay = prompt("Please enter your Gross salary: ");
 // Define variable benefits.
 // Prompt users to input their monthly benefits, which is stored in the benefits variable.
